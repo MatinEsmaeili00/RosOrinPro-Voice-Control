@@ -105,7 +105,8 @@ Full guide: [docs/unreal.md](docs/unreal.md).
 ├── tools/
 │   ├── voice_pipeline_test.py          end-to-end voice tests with synthetic speech
 │   └── whisper_benchmark.py            compares Whisper model sizes
-└── docs/                               full documentation (below)
+├── docs/                               full documentation (below)
+└── old/README.md                       the original one-page manual
 ```
 
 ## Documentation
@@ -121,6 +122,7 @@ Full guide: [docs/unreal.md](docs/unreal.md).
 | [Troubleshooting](docs/troubleshooting.md) | common problems and fixes |
 | [Development log](docs/development-log.md) | what was built, decisions made, bugs found and fixed |
 | [Resources](docs/resources.md) | references for ROS, rosbridge, Whisper, Ollama, Unreal APIs, and more |
+| [Original manual](old/README.md) | the first one-page setup manual, kept as it was |
 
 ## Hardware and software
 
