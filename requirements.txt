@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+faster-whisper
+av==17.1.0  # av 18+ removed an argument faster-whisper 1.2.1 still passes (voice breaks)
+requests
+python-multipart

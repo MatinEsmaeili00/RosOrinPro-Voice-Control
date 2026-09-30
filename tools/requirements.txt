@@ -1,0 +1,5 @@
+piper-tts
+numpy
+requests
+faster-whisper   # only for whisper_benchmark.py
+av==17.1.0

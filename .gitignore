@@ -1,0 +1,6 @@
+.venv/
+.venv-tools/
+__pycache__/
+last_voice.wav
+tools/*.onnx
+tools/*.onnx.json
